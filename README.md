@@ -1,6 +1,6 @@
 <h2 align="center">  Hi there!!! I am Hesna🤗</h2>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
-I am a final year Computer Engineering student at Onsekiz Mart University👨‍🎓I worked on Deep Learning, Image Processing and Natural Language Processing for a while. I am currently developing projects on Web Technologies👨‍💻I am incredibly interested in Quantum Computing🤯
+I am a final year Computer Engineering student at Çanakkale Onsekiz Mart University👨‍🎓I worked on Deep Learning, Image Processing and Natural Language Processing for a while. I am currently developing projects on Web Technologies👨‍💻I am incredibly interested in Quantum Computing🤯
 <div align="center">
   <img src="https://github.com/hesnacaliskan/hesnacaliskan/blob/main/stitch_dance.gif?raw=true" width="600" height="358" />
 </div>
