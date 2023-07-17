@@ -1,6 +1,6 @@
 <h2 align="center">  Hi there!!! I am Hesna🤗</h2>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
-I am a final year Computer Engineering student at Çanakkale Onsekiz Mart University👨‍🎓I worked on Deep Learning, Image Processing and Natural Language Processing for a while. I am currently developing projects on Web Technologies👨‍💻I continue to improve myself in the .NET Frameworks and their components. I am incredibly interested in Quantum Computing🤯
+I am a newly graduated Computer Engineer👨‍🎓I am currently developing projects on Web Technologies👨‍💻I continue to improve myself in the .NET Frameworks and their components.I worked on Deep Learning, Image Processing and Natural Language Processing for a while. I am incredibly interested in Quantum Computing🤯
 
 </br><div align="center">
   <img src="https://github.com/hesnacaliskan/hesnacaliskan/blob/main/stitch_dance.gif?raw=true" width="600" height="358" />
@@ -19,6 +19,6 @@ I am a final year Computer Engineering student at Çanakkale Onsekiz Mart Univer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesnacaliskan&theme=dark&layout=compact" alt="hesnacaliskan"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesnacaliskan&theme=dark&show_icons=true&locale=en&layout=compact" alt="hesnacaliskan"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesnacaliskan&show_icons=true&theme=dark" alt="hesnacaliskan"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hesnacaliskan&theme=dark&hide_border=false" alt="hesnacaliskan" /></p>
