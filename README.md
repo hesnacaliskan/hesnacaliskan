@@ -1,6 +1,6 @@
 <h2 align="center">  Hi there!!! I am Hesna🤗</h2>
-<h3 align="center">A passionate back-end developer from Turkey</h3>
-I am a newly graduated Computer Engineer👨‍🎓I am currently developing projects on Web Technologies👨‍💻I continue to improve myself in the .NET Frameworks and their components.I worked on Deep Learning, Image Processing and Natural Language Processing for a while. I am incredibly interested in Quantum Computing🤯
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<!--I am a newly graduated Computer Engineer👨‍🎓I am currently developing projects on Web Technologies👨‍💻I continue to improve myself in the .NET Frameworks and their components.I worked on Deep Learning, Image Processing and Natural Language Processing for a while. I am incredibly interested in Quantum Computing🤯-->
 
 </br><div align="center">
   <img src="https://github.com/hesnacaliskan/hesnacaliskan/blob/main/stitch_dance.gif?raw=true" width="600" height="358" />
